@@ -1,0 +1,26 @@
+{
+  "name": "My Personal Trainer — Client Intake",
+  "short_name": "My PT Intake",
+  "description": "Client intake form for My Personal Trainer — generates PDF with all R01–R37 fields.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#040404",
+  "theme_color": "#040404",
+  "categories": ["health", "fitness", "business"],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
